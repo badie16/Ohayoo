@@ -1,2 +1,60 @@
+# Node modules (si vous utilisez npm pour frontend)
+node_modules/
+
+# Composer vendor directory
 /vendor/
-upload/post
+
+# Environnement local
+.env
+.env.local
+.env.*.local
+
+# Fichiers de cache
+*.log
+*.cache
+*.tmp
+*.swp
+
+# Dossiers de cache pour Laravel, Symfony, ou autres frameworks
+bootstrap/cache/
+storage/
+storage/*.key
+storage/logs/
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+
+# Systèmes d'exploitation
+.DS_Store
+Thumbs.db
+
+# IDEs / éditeurs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Uploads temporaires
+/public/uploads/tmp/
+public/storage/*
+/upload/chat/*
+/upload/post/*
+/upload/profile/*
+/upload/users/*
+/upload/cover/*
+# Fichiers de build
+/build/
+dist/
+
+# Tests
+.phpunit.result.cache
+
+# Autres fichiers sensibles ou inutiles
+composer.lock
+package-lock.json
+npm-debug.log*
+
+# Cache de navigateur ou assets générés
+/public/assets/
+public/js/
+public/css/
