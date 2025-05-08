@@ -8,7 +8,7 @@ vendor/
 .env
 .env.local
 .env.*.local
-ohayoo.sql
+
 
 # Fichiers de log / cache
 *.log
@@ -17,18 +17,13 @@ ohayoo.sql
 *.swp
 
 # Dossiers d’uploads (pour éviter de versionner les fichiers utilisateur)
-upload/chat/*
-upload/post/*
-upload/profile/*
-upload/users/*
-upload/cover/*
+upload/
+upload/
+upload/
+upload/
+upload/
 
-# Si jamais tu veux garder les dossiers vides dans Git
-!upload/chat/.gitkeep
-!upload/post/.gitkeep
-!upload/profile/.gitkeep
-!upload/users/.gitkeep
-!upload/cover/.gitkeep
+
 
 # Système
 .DS_Store
