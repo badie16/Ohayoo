@@ -8,7 +8,7 @@ vendor/
 .env
 .env.local
 .env.*.local
-
+ohayoo.sql
 
 # Fichiers de log / cache
 *.log
@@ -17,11 +17,11 @@ vendor/
 *.swp
 
 # Dossiers d’uploads (pour éviter de versionner les fichiers utilisateur)
-upload/
-upload/
-upload/
-upload/
-upload/
+upload/chat/
+upload/post/
+upload/profile/
+upload/users/
+upload/cover/
 
 
 
