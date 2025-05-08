@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="108.355" viewBox="0 0 108 108.355">
+  <defs>
+    <style>
+      .logo-icon {
+        fill: #E4E9F2;
+      }
+    </style>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-11.355 -10.645)">
+    <path id="Rectangle_Copy_4" data-name="Rectangle Copy 4" class="logo-icon" d="M10,0H50a0,0,0,0,1,0,0V40A10,10,0,0,1,40,50H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" transform="translate(69.355 10.645)"/>
+    <path id="Rectangle_Copy_4-2" data-name="Rectangle Copy 4" class="logo-icon" d="M10,0H50a0,0,0,0,1,0,0V40A10,10,0,0,1,40,50H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" transform="translate(61.355 10.645) rotate(90)"/>
+    <path id="Rectangle_Copy_4-3" data-name="Rectangle Copy 4" class="logo-icon" d="M10,0H50a0,0,0,0,1,0,0V40A10,10,0,0,1,40,50H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" transform="translate(119.355 69) rotate(90)"/>
+    <path id="Rectangle_Copy_4-4" data-name="Rectangle Copy 4" class="logo-icon" d="M10,0H50a0,0,0,0,1,0,0V40A10,10,0,0,1,40,50H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" transform="translate(11.355 69)"/>
+  </g>
+</svg>

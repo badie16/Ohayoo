@@ -1,0 +1,30 @@
+.post-up-center {
+    height: 100%;
+    background: var(--bg-color1);
+    overflow: auto;
+    scrollbar-width: thin;;
+}
+.app-center{
+    z-index: 10;
+    height: 100%;
+    position: fixed;
+    width: 100%;
+}
+.post-item {
+    border-radius: 0;
+}
+.post-view{
+    height: 100%;
+}
+.post-view #slideImg{
+    height: calc(100% - var(--header-height) );
+}
+.post-view > .left{
+    background: var(--bs-dark);
+}
+.post-media-item{
+    height: 100%;
+}
+.post-media-item img{
+
+}

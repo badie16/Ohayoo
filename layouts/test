@@ -1,0 +1,926 @@
+<section class="post-item">
+                        <div>
+                            <div class="post-content">
+                                <div class="timeLine-post">
+                                    <div class="post-header d-flex justify-content-between align-items-center">
+                                        <div class="left d-flex">
+                                            <div class="profile">
+                                                <img src="upload/default.png" class="post-user-profile" alt="">
+                                            </div>
+                                            <div>
+                                                <h5 class="post-user-name m-0">Badie os</h5>
+                                                <div class="d-flex align-items-center" >
+                                                    <span class="post-comment_date">12 hours ago</span>
+                                                    <i id="visible" class="fad fa-earth"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="right">
+                                            <i class="bi-three-dots-vertical btn-menu-post-more-option"></i>
+                                            <div class="menu-post"></div>
+                                        </div>
+                                    </div>
+                                    <div class="post-text">
+                                        <p class="text">
+                                            You are allowed to use this template for your websites. You are not allowed to redistribute the template ZIP file on any other website. Please contact us for more info.
+                                        </p>
+                                    </div>
+                                    <div class="post-media multiple d-none">
+                                        <div class="post-media-item">
+                                            <img src="upload/post1.jpg" alt="post">
+                                        </div>
+                                        <div class="post-media-item">
+                                            <img src="upload/post1.jpg" alt="post">
+                                        </div>
+                                        <div class="post-media-item">
+                                            <img src="upload/post1.jpg" alt="post">
+                                        </div>
+                                        <div class="post-media-item">
+                                            <img src="upload/post1.jpg" alt="post">
+                                            <div class="more-post">
+                                                <p>+2</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="post-media">
+                                        <div class="post-media-item">
+                                            <video controls class="video-js"
+                                                   data-setup="{}">
+                                                <source src="upload/v1.mp4">
+                                            </video>
+                                        </div>
+                                    </div>
+                                    <hr>
+                                    <div class="post-option-btn">
+                                        <div class="left">
+                                            <div class="btn-option" >
+                                                <button class="active" id="like"><i class="fal fa-thumbs-up" ></i></button>
+                                                <span class="value">1.6k</span>
+                                            </div>
+                                            <div class="btn-option" >
+                                                <button class="" id="comment" ><i class="fal fa-comment" ></i></button>
+                                                <span class="value">999</span>
+                                            </div>
+                                            <div class="btn-option" >
+                                                <button class="" id="share" ><i class="fal fa-share" ></i></button>
+                                                <span class="value">77</span>
+                                            </div>
+                                        </div>
+                                        <div class="right">
+                                        </div>
+                                    </div>
+                                </div>
+                                <input type="hidden" class="postId" value="232">
+                            </div>
+                            <div class="comment-container">
+                                <div class="comment-content">
+                                    <div class="comment-block">
+                                        <input type="hidden" class="comment_id" value="3">
+                                        <div class="profile">
+                                            <img src="upload/" class="profile-img user-img" alt="TT">
+                                        </div>
+                                        <div class="comment-global-wrapper">
+                                            <div class="d-flex align-items-center">
+                                                <div class="comment-wrapper">
+                                                    <a href="#" class="user-name">Badie bahida</a>
+                                                    <div class="comment">
+                                                        <p>hello this is test comment hi may name is badie wah a afcj</p>
+                                                    </div>
+                                                </div>
+                                                <div class="comment-menu">
+                                                    <i class="bi-three-dots" id="btn-comment-menu"></i>
+                                                </div>
+
+                                            </div>
+                                            <div class="comment-btn-2">
+                                                <a href="#" class="like-comment">like</a>
+                                                <a href="#" class="reply-comment">reply</a>
+                                                <p class="regular-text-style-2"> . <span class="time-of-comment">2w</span></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="replay-comments">
+                                        <div class="comment-block ">
+                                            <input type="hidden" class="comment_id" value="3">
+                                            <div class="profile">
+                                                <img src="upload/" class="profile-img user-img" alt="TT">
+                                            </div>
+                                            <div class="comment-global-wrapper">
+                                                <div class="d-flex align-items-center">
+                                                    <div class="comment-wrapper">
+                                                        <a href="#" class="user-name">Badie bahida</a>
+                                                        <div class="comment">
+                                                            <p>hello this is test comment hi may name is badie wah a afcj</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="comment-menu">
+                                                        <i class="bi-three-dots" id="btn-comment-menu"></i>
+                                                    </div>
+
+                                                </div>
+                                                <div class="comment-btn-2">
+                                                    <a href="#" class="like-comment">like</a>
+                                                    <a href="#" class="reply-comment">reply</a>
+                                                    <p class="regular-text-style-2"> . <span class="time-of-comment">2w</span></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="comment-block ">
+                                            <input type="hidden" class="comment_id" value="3">
+                                            <div class="profile">
+                                                <img src="upload/" class="profile-img user-img" alt="TT">
+                                            </div>
+                                            <div class="comment-global-wrapper">
+                                                <div class="d-flex align-items-center">
+                                                    <div class="comment-wrapper">
+                                                        <a href="#" class="user-name">Badie bahida</a>
+                                                        <div class="comment">
+                                                            <p>hello this is test comment hi may name is badie wah a afcj</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="comment-menu">
+                                                        <i class="bi-three-dots" id="btn-comment-menu"></i>
+                                                    </div>
+
+                                                </div>
+                                                <div class="comment-btn-2">
+                                                    <a href="#" class="like-comment">like</a>
+                                                    <a href="#" class="reply-comment">reply</a>
+                                                    <p class="regular-text-style-2"> . <span class="time-of-comment">2w</span></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="comment-form-option">
+                            <div class="comment-op">
+                                <div class="profile">
+                                    <img src="upload/default.png" class="profile-img" alt="">
+                                </div>
+                            </div>
+                            <form action="" method="POST" class="comment-form">
+                                <label class="w-100">
+                                    <input type="text" name="comment" autocomplete="off" placeholder="Write a comment .." class="comment-style comment-input">
+                                </label>
+                                <button class="comment-btn"><i class="fa fa-paper-plane-top"></i></button>
+                            </form>
+                        </div>
+                    </section>
+
+
+
+
+
+
+
+                                            <div class="post-item d-none">
+                                                <div class="timeLine-post">
+                                                    <div class="post-header d-flex justify-content-between align-items-center">
+                                                        <div class="left d-flex">
+                                                            <div class="profile">
+                                                                <img src="upload/default.png" class="post-user-profile" alt="">
+                                                            </div>
+                                                            <div>
+                                                                <h5 class="post-user-name m-0">Badie os</h5>
+                                                                <div class="d-flex align-items-center" >
+                                                                    <span class="post-date">12 hours ago</span>
+                                                                    <i id="visible" class="fad fa-earth"></i>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="right">
+                                                            <i class="bi-three-dots-vertical btn-menu-post-more-option"></i>
+                                                            <div class="menu-post "></div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-text ">
+                                                        <p class="text">
+                                                            You are allowed to use this template for your websites. You are not allowed to redistribute the template ZIP file on any other website. Please contact us for more info.
+                                                        </p>
+                                                    </div>
+                                                    <div class="post-media video">
+                                                        <div class="post-media-item">
+                                                            <video controls class="video-js"
+                                                                   data-setup="{}">
+                                                                <source src="upload/v1.mp4">
+                                                            </video>
+                                                        </div>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="post-option-btn">
+                                                        <div class="left">
+                                                            <div class="btn-option" >
+                                                                <button class="active" id="like"><i class="fal fa-thumbs-up" ></i></button>
+                                                                <span class="value">1.6k</span>
+                                                            </div>
+                                                            <div class="btn-option" >
+                                                                <button class="" id="comment" ><i class="fal fa-comment" ></i></button>
+                                                                <span class="value">999</span>
+                                                            </div>
+                                                            <div class="btn-option" >
+                                                                <button class="" id="share" ><i class="fal fa-share" ></i></button>
+                                                                <span class="value">77</span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="right">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <input type="hidden" class="postId" value="232">
+                                            </div>
+                                            <div class="post-item d-none">
+                                                <div class="timeLine-post">
+                                                    <div class="post-header  d-flex justify-content-between align-items-center">
+                                                        <div class="left d-flex">
+                                                            <div class="profile">
+                                                                <img src="upload/default.png" class="post-user-profile" alt="">
+                                                            </div>
+                                                            <div>
+                                                                <h5 class="post-user-name m-0">Badie os</h5>
+                                                                <div class="d-flex align-items-center" >
+                                                                    <span class="post-date">12 hours ago</span>
+                                                                    <i id="visible" class="fad fa-earth"></i>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="right">
+                                                            <i class="bi-three-dots-vertical"></i>
+                                                            <div class="menu-post"></div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-text">
+                                                        <p class="text">
+                                                            You are allowed to use this template for your websites. You are not allowed to redistribute the template ZIP file on any other website. Please contact us for more info.
+                                                        </p>
+                                                    </div>
+                                                    <div class="post-media">
+                                                        <div class="post-media-item">
+                                                            <img src="upload/post1.jpg" alt="post">
+                                                        </div>
+                                                        <div class="post-media-item">
+                                                            <img src="upload/post1.jpg" alt="post">
+                                                        </div>
+                                                        <div class="post-media-item">
+                                                            <img src="upload/post1.jpg" alt="post">
+                                                        </div>
+                                                        <div class="post-media-item">
+                                                            <img src="upload/post1.jpg" alt="post">
+                                                        </div>
+                                                        <div class="post-media-item">
+                                                            <img src="upload/post1.jpg" alt="post">
+                                                        </div>
+                                                        <div class="post-media-item">
+                                                            <img src="upload/post1.jpg" alt="post">
+                                                        </div>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="post-option-btn">
+                                                        <div class="left">
+                                                            <div class="btn-option" >
+                                                                <button class="active" id="like"><i class="fal fa-thumbs-up" ></i></button>
+                                                                <span class="value">1.6k</span>
+                                                            </div>
+                                                            <div class="btn-option" >
+                                                                <button class="" id="comment" ><i class="fal fa-comment" ></i></button>
+                                                                <span class="value">999</span>
+                                                            </div>
+                                                            <div class="btn-option" >
+                                                                <button class="" id="share" ><i class="fal fa-share" ></i></button>
+                                                                <span class="value">77</span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="right">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <input type="hidden" class="postId">
+                                            </div>
+                                            <div class="post-item d-none">
+                                                <div class="timeLine-post">
+                                                    <div class="post-header d-flex justify-content-between align-items-center">
+                                                        <div class="left d-flex">
+                                                            <div class="profile">
+                                                                <img src="upload/default.png" class="post-user-profile" alt="">
+                                                            </div>
+                                                            <div>
+                                                                <h5 class="post-user-name m-0">Badie os</h5>
+                                                                <div class="d-flex align-items-center" >
+                                                                    <span class="post-date">12 hours ago</span>
+                                                                    <i id="visible" class="fad fa-earth"></i>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="right">
+                                                            <i class="bi-three-dots-vertical"></i>
+                                                            <div class="menu-post"></div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-text">
+                                                        <p class="text">
+                                                            You are allowed to use this template for your websites. You are not allowed to redistribute the template ZIP file on any other website. Please contact us for more info.
+                                                        </p>
+                                                    </div>
+                                                    <div class="post-media">
+                                                        <div class="post-media-item">
+                                                            <img src="upload/post1.jpg" alt="post">
+                                                        </div>
+                                                        <div class="post-media-item">
+                                                            <img src="upload/post1.jpg" alt="post">
+                                                        </div>
+                                                        <div class="post-media-item">
+                                                            <img src="upload/post1.jpg" alt="post">
+                                                        </div>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="post-option-btn">
+                                                        <div class="left">
+                                                            <div class="btn-option" >
+                                                                <button class="active" id="like"><i class="fal fa-thumbs-up" ></i></button>
+                                                                <span class="value">1.6k</span>
+                                                            </div>
+                                                            <div class="btn-option" >
+                                                                <button class="" id="comment" ><i class="fal fa-comment" ></i></button>
+                                                                <span class="value">999</span>
+                                                            </div>
+                                                            <div class="btn-option" >
+                                                                <button class="" id="share" ><i class="fal fa-share" ></i></button>
+                                                                <span class="value">77</span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="right">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <input type="hidden" class="postId">
+                                            </div>
+                                            <div class="post-item d-none" >
+                                                <div class="timeLine-post">
+                                                    <div class="post-header d-flex justify-content-between align-items-center">
+                                                        <div class="left d-flex">
+                                                            <div class="profile">
+                                                                <img src="upload/default.png" class="post-user-profile" alt="">
+                                                            </div>
+                                                            <div>
+                                                                <h5 class="post-user-name m-0">Badie os</h5>
+                                                                <div class="d-flex align-items-center" >
+                                                                    <span class="post-date">12 hours ago</span>
+                                                                    <i id="visible" class="fad fa-earth"></i>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="right">
+                                                            <i class="bi-three-dots-vertical"></i>
+                                                            <div class="menu-post"></div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post-text">
+                                                        <p class="text">
+                                                            You are allowed to use this template for your websites. You are not allowed to redistribute the template ZIP file on any other website. Please contact us for more info.
+                                                        </p>
+                                                    </div>
+                                                    <div class="post-media">
+                                                        <div class="post-media-item">
+                                                            <img src="upload/post1.jpg" alt="post">
+                                                        </div>
+                                                    </div>
+                                                    <hr>
+                                                    <div class="post-option-btn">
+                                                        <div class="left">
+                                                            <div class="btn-option" >
+                                                                <button class="active" id="like"><i class="fal fa-thumbs-up" ></i></button>
+                                                                <span class="value">1.6k</span>
+                                                            </div>
+                                                            <div class="btn-option" >
+                                                                <button class="" id="comment" ><i class="fal fa-comment" ></i></button>
+                                                                <span class="value">999</span>
+                                                            </div>
+                                                            <div class="btn-option" >
+                                                                <button class="" id="share" ><i class="fal fa-share" ></i></button>
+                                                                <span class="value">77</span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="right">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <input type="hidden" class="postId">
+                                            </div>
+
+
+
+
+
+
+
+
+                                            <div class="headerChatBox">
+                                                                    <div class="profile">
+                                                                        <img class="profile-img" alt="user-img" src="upload/default.jpg">
+                                                                    </div>
+                                                                    <div>
+                                                                        <div class="fullName">
+                                                                            <p>badie bahida</p>
+                                                                        </div>
+                                                                        <div class="isTyping active">
+                                                                            Typing...
+                                                                        </div>
+                                                                    </div>
+
+                                                                </div>
+                                                                <div class="chat-aria">
+                                                                    <div class="chats">
+                                                                        <div class="chat-items in">
+                                                                            <div class="chat first">
+                                                                                <div class="msg">
+                                                                                    <p>hello badie</p>
+                                                                                </div>
+                                                                                <span class="date">
+                                                                                22:33
+                                                                            </span>
+                                                                            </div>
+                                                                            <div class="option-chat-item">
+                                                                                <div class="btn-option"><i class="bi-three-dots"></i></div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="chat-items in">
+                                                                            <div class="chat">
+                                                                                <div class="msg">
+                                                                                    <p>hello badie
+                                                                                    </p>
+                                                                                </div>
+                                                                                <span class="date">
+                                                                                22:33
+                                                                            </span>
+                                                                            </div>
+                                                                            <div class="option-chat-item">
+                                                                                <div class="btn-option"><i class="bi-three-dots"></i></div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="chat-items out">
+
+                                                                            <div class="chat first">
+                                                                                <div class="msg">
+                                                                                    <p>hello khdija
+                                                                                    </p>
+                                                                                </div>
+                                                                                <span class="date">
+                                                                                22:33
+                                                                            </span>
+                                                                            </div>
+                                                                            <div class="option-chat-item">
+                                                                                <div class="btn-option"><i class="bi-three-dots"></i></div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="chat-items out">
+
+                                                                            <div class="chat">
+                                                                                <div class="msg">
+                                                                                    <p>hello khdija
+                                                                                    </p>
+                                                                                </div>
+                                                                                <span class="date">
+                                                                                22:33
+                                                                            </span>
+                                                                            </div>
+                                                                            <div class="option-chat-item">
+                                                                                <div class="btn-option"><i class="bi-three-dots"></i></div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="chat-items in">
+                                                                            <div class="chat first">
+                                                                                <div class="msg">
+                                                                                    <p>hello badie</p>
+                                                                                </div>
+                                                                                <span class="date">
+                                                                                22:33
+                                                                            </span>
+                                                                            </div>
+                                                                            <div class="option-chat-item">
+                                                                                <div class="btn-option"><i class="bi-three-dots"></i></div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="chat-items in">
+                                                                            <div class="chat">
+                                                                                <div class="msg">
+                                                                                    <p>hello badie
+                                                                                    </p>
+                                                                                </div>
+                                                                                <span class="date">
+                                                                                22:33
+                                                                            </span>
+                                                                            </div>
+                                                                            <div class="option-chat-item">
+                                                                                <div class="btn-option"><i class="bi-three-dots"></i></div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="chat-items out">
+
+                                                                            <div class="chat first">
+                                                                                <div class="msg">
+                                                                                    <p>hello khdija
+                                                                                    </p>
+                                                                                </div>
+                                                                                <span class="date">
+                                                                                22:33
+                                                                            </span>
+                                                                            </div>
+                                                                            <div class="option-chat-item">
+                                                                                <div class="btn-option"><i class="bi-three-dots"></i></div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="chat-items in">
+                                                                            <div class="chat first">
+                                                                                <div class="msg">
+                                                                                    <p>hello badie</p>
+                                                                                </div>
+                                                                                <span class="date">
+                                                                                22:33
+                                                                            </span>
+                                                                            </div>
+                                                                            <div class="option-chat-item">
+                                                                                <div class="btn-option"><i class="bi-three-dots"></i></div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="chat-items in">
+                                                                            <div class="chat">
+                                                                                <div class="msg">
+                                                                                    <p>hello badie
+                                                                                    </p>
+                                                                                </div>
+                                                                                <span class="date">
+                                                                                22:33
+                                                                            </span>
+                                                                            </div>
+                                                                            <div class="option-chat-item">
+                                                                                <div class="btn-option"><i class="bi-three-dots"></i></div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="chat-items out">
+
+                                                                            <div class="chat first">
+                                                                                <div class="msg">
+                                                                                    <p>hello khdija
+                                                                                    </p>
+                                                                                </div>
+                                                                                <span class="date">
+                                                                                22:33
+                                                                            </span>
+                                                                            </div>
+                                                                            <div class="option-chat-item">
+                                                                                <div class="btn-option"><i class="bi-three-dots"></i></div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="chat-items in">
+                                                                            <div class="chat first">
+                                                                                <div class="msg">
+                                                                                    <p>hello badie</p>
+                                                                                </div>
+                                                                                <span class="date">
+                                                                                22:33
+                                                                            </span>
+                                                                            </div>
+                                                                            <div class="option-chat-item">
+                                                                                <div class="btn-option"><i class="bi-three-dots"></i></div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="chat-items in">
+                                                                            <div class="chat">
+                                                                                <div class="msg">
+                                                                                    <p>hello badie
+                                                                                    </p>
+                                                                                </div>
+                                                                                <span class="date">
+                                                                                22:33
+                                                                            </span>
+                                                                            </div>
+                                                                            <div class="option-chat-item">
+                                                                                <div class="btn-option"><i class="bi-three-dots"></i></div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="chat-items out">
+
+                                                                            <div  class="chat first">
+                                                                                <div class="msg">
+                                                                                    <p>hello khdija
+                                                                                    </p>
+                                                                                </div>
+                                                                                <span class="date">
+                                                                                22:33
+                                                                            </span>
+                                                                            </div>
+                                                                            <div class="option-chat-item">
+                                                                                <div class="btn-option"><i class="bi-three-dots"></i></div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="chat-items in">
+                                                                            <div class="chat first">
+                                                                                <div class="msg">
+                                                                                    <p>hello badie</p>
+                                                                                </div>
+                                                                                <span class="date">
+                                                                                22:33
+                                                                            </span>
+                                                                            </div>
+                                                                            <div class="option-chat-item">
+                                                                                <div class="btn-option"><i class="bi-three-dots"></i></div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="chat-items in">
+                                                                            <div class="chat">
+                                                                                <div class="msg">
+                                                                                    <p>hello badie
+                                                                                    </p>
+                                                                                </div>
+                                                                                <span class="date">
+                                                                                22:33
+                                                                            </span>
+                                                                            </div>
+                                                                            <div class="option-chat-item">
+                                                                                <div class="btn-option"><i class="bi-three-dots"></i></div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="chat-items out">
+
+                                                                            <div class="chat first">
+                                                                                <div class="msg">
+                                                                                    <p>hello khdija
+                                                                                    </p>
+                                                                                </div>
+                                                                                <span class="date">
+                                                                                22:33
+                                                                            </span>
+                                                                            </div>
+                                                                            <div class="option-chat-item">
+                                                                                <div class="btn-option"><i class="bi-three-dots"></i></div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="chat-items in">
+                                                                            <div class="chat first">
+                                                                                <div class="msg">
+                                                                                    <p>hello badie</p>
+                                                                                </div>
+                                                                                <span class="date">
+                                                                                22:33
+                                                                            </span>
+                                                                            </div>
+                                                                            <div class="option-chat-item">
+                                                                                <div class="btn-option"><i class="bi-three-dots"></i></div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="chat-items in">
+                                                                            <div class="chat">
+                                                                                <div class="msg">
+                                                                                    <p>hello badie
+                                                                                    </p>
+                                                                                </div>
+                                                                                <span class="date">
+                                                                                22:33
+                                                                            </span>
+                                                                            </div>
+                                                                            <div class="option-chat-item">
+                                                                                <div class="btn-option"><i class="bi-three-dots"></i></div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="chat-items out">
+
+                                                                            <div class="chat first">
+                                                                                <div class="msg">
+                                                                                    <p>hello khdija
+                                                                                    </p>
+                                                                                </div>
+                                                                                <span class="date">
+                                                                                22:33
+                                                                            </span>
+                                                                            </div>
+                                                                            <div class="option-chat-item">
+                                                                                <div class="btn-option"><i class="bi-three-dots"></i></div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="chat-items in">
+                                                                            <div class="chat first">
+                                                                                <div class="msg">
+                                                                                    <p>hello badie</p>
+                                                                                </div>
+                                                                                <span class="date">
+                                                                                22:33
+                                                                            </span>
+                                                                            </div>
+                                                                            <div class="option-chat-item">
+                                                                                <div class="btn-option"><i class="bi-three-dots"></i></div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="chat-items in">
+                                                                            <div class="chat">
+                                                                                <div class="msg">
+                                                                                    <p>hello badie
+                                                                                    </p>
+                                                                                </div>
+                                                                                <span class="date">
+                                                                                22:33
+                                                                            </span>
+                                                                            </div>
+                                                                            <div class="option-chat-item">
+                                                                                <div class="btn-option"><i class="bi-three-dots"></i></div>
+                                                                            </div>
+                                                                        </div>
+                                            <!--                            <div class="chat-items in">-->
+                                            <!---->
+                                            <!--                                <div class="chat">-->
+                                            <!--                                    <div class="msg">-->
+                                            <!--                                        <div class="myAudioF1 d-flex align-items-center">-->
+                                            <!--                                            <i  class="fal fa-play playAudioMsg play" id="ID2323" data-isplay="false"></i>-->
+                                            <!--                                            <div class="progress-position">-->
+                                            <!--                                                <div class="progress-back">-->
+                                            <!--                                                    <div class="audioPosition"></div>-->
+                                            <!--                                                    <progress class="progress-bar progress-bar-striped progress-bar-animated" style="background: var(--bs-red);-->
+                                            <!--                                                    " id="ID2323" role="progressbar" aria-valuenow="2" aria-valuemin="0" aria-valuemax="100">-->
+                                            <!--                                                    </progress>-->
+                                            <!--                                                </div>-->
+                                            <!--                                            </div>-->
+                                            <!--                                        </div>-->
+                                            <!--                                        <audio  class="audioPlayer"></audio>-->
+                                            <!--                                    </div>-->
+                                            <!--                                    <span class="date">-->
+                                            <!--                                    22:33-->
+                                            <!--                                </span>-->
+                                            <!--                                </div>-->
+                                            <!--                                <div class="option-chat-item">-->
+                                            <!--                                    <div class="btn-option"><i class="bi-three-dots"></i></div>-->
+                                            <!--                                </div>-->
+                                            <!--                            </div>-->
+                                                                        <div class="chat-items in">
+
+                                                                            <div class="chat">
+                                                                                <div class="msg">
+                                                                                    <div class="myAudioF1 d-flex align-items-center">
+                                                                                        <i  class="fal fa-play playAudioMsg play" id="ID2324" play=false></i>
+                                                                                        <div class="progress-position">
+                                                                                            <label class="w-100 d-flex relative">
+                                                                                                <input id="slideID2324" class="slider" value="0" type="range">
+                                                                                                <div class="progressF1">
+                                                                                                </div>
+                                                                                            </label>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <span class="date">
+                                                                                22:33
+                                                                            </span>
+                                                                            </div>
+                                                                            <div class="option-chat-item">
+                                                                                <div class="btn-option"><i class="bi-three-dots"></i></div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="chat-items in">
+
+                                                                            <div class="chat">
+                                                                                <div class="msg">
+                                                                                    <div class="myAudioF1 d-flex align-items-center">
+                                                                                        <i  class="fal fa-play playAudioMsg play" id="ID2325" play=false></i>
+                                                                                        <div class="progress-position">
+                                                                                            <label class="w-100 d-flex">
+                                                                                                <input id="slideID2325" class="slider" value="0" type="range">
+                                                                                            </label>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <span class="date">
+                                                                                22:33
+                                                                            </span>
+                                                                            </div>
+                                                                            <div class="option-chat-item">
+                                                                                <div class="btn-option"><i class="bi-three-dots"></i></div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="chat-items in">
+                                                                            <div class="chat">
+                                                                                <div class="msg">
+                                                                                    <div class="myImgF1">
+                                                                                        <img src="upload/post1.jpg">
+                                                                                    </div>
+                                                                                </div>
+                                                                                <span class="date">
+                                                                                22:33
+                                                                            </span>
+                                                                            </div>
+                                                                            <div class="option-chat-item">
+                                                                                <div class="btn-option"><i class="bi-three-dots"></i></div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="inputMsgAria">
+                                                                    <div class="option-chat">
+                                                                        <i class="btnF1 fal fa-paperclip"></i>
+                                                                    </div>
+                                                                    <div class="labels">
+                                                                        <label class="msg-text-label">
+                                                                            <input class="msg-text-field" type="text" name="msgText" placeholder="Type a message">
+                                                                        </label>
+                                                                        <label class="msg-audio-label">
+                                                                            <div class=" btnDelete">
+                                                                                <i class="btnF1 fa fa-cart-arrow-up"></i>
+                                                                            </div>
+                                                                            <div class="time centerFlex">
+                                                                                <i class="fa fa-beat fa-he dot" style="--i:red"></i>
+                                                                                <span class="value">00:00</span>
+                                                                            </div>
+                                                                            <div class="pauseAria d-flex">
+                                                                                <audio controls class="testAudioPause " style="display: none"></audio>
+                                                                                <button class="btnF1 btnPause">
+                                                                                    <i class=" fal fa-pause"></i>
+                                                                                </button>
+                                                                                <button  class="btnF1 btnPlayResume " style="display: none">
+                                                                                    <i class=" fal fa-play"></i>
+                                                                                </button>
+                                                                            </div>
+                                                                        </label>
+                                                                    </div>
+                                                                    <div class="audioOrSend">
+                                                                        <button class="btnF1 send" style="display: none">
+                                                                            <i class=" fal fa-paper-plane-top"></i>
+                                                                        </button>
+                                                                        <button class="btnF1 audio">
+                                                                            <i class="fal fa-microphone"></i>
+                                                                        </button>
+
+                                                                    </div>
+                                                                </div>
+
+
+
+
+
+
+
+
+//$msg = new Message();
+//$msg->fetchmessage("msg_id",131);
+//$user = new User();
+//$user->fetchUser("userId",1382513644);
+//
+
+?>
+<!--<div class="chat-box">-->
+<!--    <div class="chat-aria">-->
+<!--        <div class="chats">-->
+<!--        --><?php //echo  ChatManager::generate_msg($msg,$user)?>
+<!--        </div>-->
+<!--        <div>-->
+<!--</div>-->
+<!--<script src="../../asset/js/chat.js"></script>-->
+
+
+
+
+<!--div class="loader">
+          <div class="loader__balls">
+                <div class="loader__balls__group">
+                  <div class="ball item1"></div>
+                  <div class="ball item1"></div>
+                  <div class="ball item1"></div>
+                </div>
+                <div class="loader__balls__group">
+                  <div class="ball item2"></div>
+                  <div class="ball item2"></div>
+                  <div class="ball item2"></div>
+                </div>
+                <div class="loader__balls__group">
+                  <div class="ball item3"></div>
+                  <div class="ball item3"></div>
+                  <div class="ball item3"></div>
+                </div>
+          </div>
+            <div class="logo">
+                <img src="$root/asset/img/logo-alt.svg" alt="logo">
+                <h2>Ohayoo</h2>
+            </div>
+        </div-->
+        <!--<div id="carouselExampleIndicators" class="carousel slide">-->
+        <!--    <div class="carousel-indicators">-->
+        <!--        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>-->
+        <!--        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>-->
+        <!--        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>-->
+        <!--    </div>-->
+        <!--    <div class="carousel-inner">-->
+        <!--        <div class="carousel-item active">-->
+        <!--            <img src="upload/post1.png" class="d-block w-100" alt="...">-->
+        <!--        </div>-->
+        <!--        <div class="carousel-item">-->
+        <!--            <img src="upload/post1.png" class="d-block w-100" alt="...">-->
+        <!--        </div>-->
+        <!--        <div class="carousel-item">-->
+        <!--            <img src="upload/post1.jpg" class="d-block w-100" alt="...">-->
+        <!--        </div>-->
+        <!--    </div>-->
+        <!--    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">-->
+        <!--        <span class="carousel-control-prev-icon" aria-hidden="true"></span>-->
+        <!--        <span class="visually-hidden">Previous</span>-->
+        <!--    </button>-->
+        <!--    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">-->
+        <!--        <span class="carousel-control-next-icon" aria-hidden="true"></span>-->
+        <!--        <span class="visually-hidden">Next</span>-->
+        <!--    </button>-->
+        <!--</div>-->

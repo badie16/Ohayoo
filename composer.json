@@ -1,0 +1,12 @@
+{
+    "name": "hostname47/composer",
+    "autoload": {
+        "psr-4": {
+            "classes\\": "classes/",
+            "layouts\\": "layouts/"
+        }
+    },
+    "require": {
+        "ext-mysqli": "*"
+    }
+}
