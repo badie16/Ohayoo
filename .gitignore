@@ -1,60 +1,40 @@
-# Node modules (si vous utilisez npm pour frontend)
-node_modules/
+# IDE / éditeurs
+.idea/
 
-# Composer vendor directory
-/vendor/
+# Dépendances PHP (installées par Composer)
+vendor/
 
-# Environnement local
+# Fichiers de configuration ou sensibles
 .env
 .env.local
 .env.*.local
+ohayoo.sql
 
-# Fichiers de cache
+# Fichiers de log / cache
 *.log
 *.cache
 *.tmp
 *.swp
 
-# Dossiers de cache pour Laravel, Symfony, ou autres frameworks
-bootstrap/cache/
-storage/
-storage/*.key
-storage/logs/
-storage/framework/cache/*
-storage/framework/sessions/*
-storage/framework/views/*
+# Dossiers d’uploads (pour éviter de versionner les fichiers utilisateur)
+upload/chat/*
+upload/post/*
+upload/profile/*
+upload/users/*
+upload/cover/*
 
-# Systèmes d'exploitation
+# Si jamais tu veux garder les dossiers vides dans Git
+!upload/chat/.gitkeep
+!upload/post/.gitkeep
+!upload/profile/.gitkeep
+!upload/users/.gitkeep
+!upload/cover/.gitkeep
+
+# Système
 .DS_Store
 Thumbs.db
 
-# IDEs / éditeurs
-.vscode/
-.idea/
-*.sublime-workspace
-*.sublime-project
-
-# Uploads temporaires
-/public/uploads/tmp/
-public/storage/*
-/upload/chat/*
-/upload/post/*
-/upload/profile/*
-/upload/users/*
-/upload/cover/*
-# Fichiers de build
-/build/
-dist/
-
-# Tests
-.phpunit.result.cache
-
-# Autres fichiers sensibles ou inutiles
-composer.lock
+# Node (si tu utilises npm/yarn pour le frontend)
+node_modules/
 package-lock.json
 npm-debug.log*
-
-# Cache de navigateur ou assets générés
-/public/assets/
-public/js/
-public/css/
